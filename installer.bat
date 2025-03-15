@@ -1,3 +1,4 @@
+��&cls
 @echo off
 chcp 65001 >nul
 title Anti Lock Installer
@@ -11,7 +12,6 @@ echo [37m ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═�
 echo  Made by barryjensen-dev
 color F
 echo.
-pause
 timeout /t 2 /nobreak >nul
 cls
 
