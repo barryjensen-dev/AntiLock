@@ -1,32 +1,8 @@
-@echo off
+ÿþ@echo off
 setlocal enableextensions
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 title Anti Lock
-
-:green
-cls
-echo                 [1;92m^/^|  ^/^|  ---------------------------[0m
-echo                 [1;92m^|^|__^|^|  ^|                         ^|[0m
-echo                [32m^/   O O^\__  Welcome to Anti Lock   ^|[0m
-echo               [32m^/          ^\                        ^|[0m
-echo              [1;92m^/      ^\     ^\                       ^|[0m
-echo             [1;92m^/   _    ^\     ^\ ----------------------[0m
-echo            [32m^/    ^|^\____^\     ^\      ^|^|[0m
-echo           [32m^/     ^| ^| ^| ^|^\____^/      ^|^|[0m
-echo          [1;92m^/       ^\^| ^| ^| ^|^/ ^|     __^|^|[0m
-echo         [1;92m^/  ^/  ^\   -------  ^|_____^| ^|^|[0m
-echo        [32m^/   ^|   ^|           ^|       --^|[0m
-echo        [32m^|   ^|   ^|           ^|_____  --^|[0m
-echo        [1;92m^|  ^|_^|_^|_^|          ^|     ^\----[0m
-echo        [1;92m^/^\                  ^|[0m
-echo       [32m^/ /^\        ^|        ^/[0m
-echo      [32m^/ ^/  ^|       ^|       ^|[0m
-echo  [1;92m___^/ ^/   ^|       ^|       ^|[0m
-echo [1;92m^|____^/    c_c_c_C/ \C_c_c_c[0m
-timeout /t 2 /nobreak >nul
-cls
-goto start
 
 :start
 echo.
