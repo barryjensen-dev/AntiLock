@@ -14,7 +14,7 @@ echo ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝    �
 echo.
 echo Version: 1.0
 echo Author: Barry Jensen
-echo https://github.com/barryjensen-dev/Anti-Lock
+echo https://github.com/barryjensen-dev/AntiLock
 echo.
 goto color
 
@@ -69,7 +69,7 @@ if %errorlevel% equ 0 (
     echo.
     echo Version: 1.0
     echo Author: Barry Jensen
-    echo https://github.com/barryjensen-dev/Anti-Lock
+    echo https://github.com/barryjensen-dev/AntiLock
     echo.
     timeout /t 5 >nul
 )
